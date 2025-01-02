@@ -1,7 +1,6 @@
 ### NAME: B. DHANUSH KUMAR
 ### REG NO: 24900615
 # EXPERIMENT NO 2 - Boolean function implementation
-# BOOLEAN FUNCTION MINIMIZATION
 
 # AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
